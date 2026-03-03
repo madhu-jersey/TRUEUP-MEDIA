@@ -200,7 +200,7 @@ export default function Contact() {
                                 <FormField
                                     label="Mobile Number *"
                                     type="tel"
-                                    placeholder="+91 98765 43210"
+                                    placeholder="10 digit number"
                                     value={form.mobile}
                                     error={touched.mobile ? errors.mobile : ''}
                                     onChange={(v) => handleChange('mobile', v)}
