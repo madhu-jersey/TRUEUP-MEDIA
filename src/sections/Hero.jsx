@@ -72,7 +72,7 @@ export default function Hero() {
                     </span>
                     <span className="ml-4 px-3 py-1 rounded-full border border-lime/20 bg-lime/5 flex items-center gap-1.5">
                         <span className="w-1.5 h-1.5 rounded-full bg-lime animate-pulse" />
-                        <span className="font-inter text-[10px] text-white/50 tracking-widest uppercase">Est. 2014</span>
+                        <span className="font-inter text-[10px] text-white/50 tracking-widest uppercase">Est. 2024</span>
                     </span>
                 </motion.div>
 
